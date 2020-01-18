@@ -1,0 +1,4 @@
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic\bin\Debug\ImprovExam.BusinessLogic.dll
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic\bin\Debug\ImprovExam.BusinessLogic.pdb
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic\obj\Debug\ImprovExam.BusinessLogic.dll
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic\obj\Debug\ImprovExam.BusinessLogic.pdb

@@ -1,0 +1,15 @@
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\obj\Debug\ImprovExam.BusinessLogic.Tests.csprojAssemblyReference.cache
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\bin\Debug\ImprovExam.BusinessLogic.Tests.dll
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\bin\Debug\ImprovExam.BusinessLogic.Tests.pdb
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\bin\Debug\ImprovExam.BusinessLogic.dll
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\bin\Debug\ImprovExam.BusinessLogic.pdb
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\obj\Debug\ImprovExam.BusinessLogic.Tests.csproj.CopyComplete
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\obj\Debug\ImprovExam.BusinessLogic.Tests.dll
+D:\- files\ImprovLearning\Exam\ImprovExam_ErroldSanchez\ImprovExam.BusinessLogic.Tests\obj\Debug\ImprovExam.BusinessLogic.Tests.pdb
